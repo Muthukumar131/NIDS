@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+*.log
+*.csv
+!data/*.csv
+!reports/.gitkeep
+!logs/.gitkeep
+.streamlit/
+.DS_Store
